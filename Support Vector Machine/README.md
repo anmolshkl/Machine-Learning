@@ -7,5 +7,5 @@ solver of Matlab to optimize the dual objective of a kernel SVM.
 
 The dual objective of kernel SVM can be written as:
 
-![alt text](https://i.ibb.co/PFTyfSb/Screenshot-from-2020-01-05-17-31-26.png
+![SVM Equations](https://i.ibb.co/PFTyfSb/Screenshot-from-2020-01-05-17-31-26.png
  "Logo Title Text 1")
